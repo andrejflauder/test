@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 test10
 test10
+=======
+test5
+test5
+test55
+test55
+>>>>>>> master
+teet
